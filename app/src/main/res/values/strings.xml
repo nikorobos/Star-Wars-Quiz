@@ -1,0 +1,23 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Star Wars Quiz</string>
+    <string name="Question1">Question 1</string>
+    <string name="Question_first">Where Anakin was born?</string>
+    <string name="Question2">Question 2</string>
+    <string name="Question_second">Which is the name of Anakin\'s mother?</string>
+    <string name="Question3">Question 3</string>
+    <string name="Question_third">Who killed Qui-Gon Jinn?</string>
+    <string name="Question4">Question 4</string>
+    <string name="Question_fourth">In which planet was Padme the senator?</string>
+    <string name="Question5">Question 5</string>
+    <string name="Question_fifth">Which is the name of Han Solo\'s spaceship?</string>
+    <string name="name_spaceship">Enter the Name here.</string>
+    <string name="Question6">Question 6</string>
+    <string name="Question_sixth">Who went to arrest senator Palpatine (Darth Sidious)?</string>
+    <string name="Question7">Question 7</string>
+    <string name="Question_seventh">Which is the color of Ahsoka\'s lightsabers?</string>
+    <string name="Question8">Question 8</string>
+    <string name="Question_eighth">What did Darth Vader tell to Luke after their first fight?</string>
+    <string name="Score">Score</string>
+    <string name="Reset">Reset</string>
+
+</resources>

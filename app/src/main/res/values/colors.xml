@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorQuestion">#FFEB3B</color>
+    <color name="colorQuestionBack">#000</color>
+    <color name="colorQuestions">#424242</color>
+    <color name="colorRButton">#000</color>
+    <color name="colorRText">#000</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorScore">#FFEB3B</color>
+    <color name="colorScoreBack">#000</color>
+    <color name="colorReset">#FFEB3B</color>
+    <color name="colorResetBack">#000</color>
+    <color name="colorScoreMess">#000000</color>
+</resources>
